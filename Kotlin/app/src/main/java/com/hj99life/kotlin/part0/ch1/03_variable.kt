@@ -1,4 +1,4 @@
-package com.hj99life.kotlin
+package com.hj99life.kotlin.part0.ch1
 
 import com.hj99life.kotlin.exam.Kid
 import com.hj99life.kotlin.exam.User
