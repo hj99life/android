@@ -1,4 +1,4 @@
-package fastcampus.part0.kotlin
+package com.hj99life.kotlin.part0.ch1
 
 fun main() {
     for(i in IntRange(1, 10)){  //1..10

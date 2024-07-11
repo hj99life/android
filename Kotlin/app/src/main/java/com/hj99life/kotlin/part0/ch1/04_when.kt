@@ -1,4 +1,4 @@
-package com.hj99life.kotlin
+package com.hj99life.kotlin.part0.ch1
 
 fun main() {
     max(10, 3)
