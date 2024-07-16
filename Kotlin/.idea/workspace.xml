@@ -17,8 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="806e6abc-d832-4a55-856a-65acaa2ac340" name="Changes" comment="Kotlin 정리">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hj99life/kotlin/exam/part0-chapter1-main.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hj99life/kotlin/exam/part0-chapter2-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
