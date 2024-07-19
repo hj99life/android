@@ -16,9 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="806e6abc-d832-4a55-856a-65acaa2ac340" name="Changes" comment="Kotlin 정리">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="806e6abc-d832-4a55-856a-65acaa2ac340" name="Changes" comment="Kotlin 정리" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +104,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "development",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/dev/git/android/Kotlin/app/src/main/java/com/hj99life/kotlin/part0/ch1",
+    "last_opened_file_path": "C:/dev/git/android/Kotlin/exam",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   },
   "keyToStringList": {
@@ -117,6 +115,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\git\android\Kotlin\exam" />
       <recent name="C:\dev\git\android\Kotlin\app\src\main\java\com\hj99life\kotlin\part0\ch1" />
       <recent name="C:\dev\git\android\Kotlin\app\src\main\java\com\hj99life\kotlin" />
       <recent name="C:\dev\git\android\Kotlin\app\src\main\java\com\hj99life\kotlin\exam" />
